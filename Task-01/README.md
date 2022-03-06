@@ -1,5 +1,5 @@
 # DevOps-Test
-## <p align=left>App1 and App2 <br> <br> </p> 
+## <p align=left>App1 and App2  <br> <br> </p> 
 **Steps for Docker Part:**
 1. Create a sample laravel project which output will be **Hello I am App 1** (Project is in the [src filder](https://github.com/Shadikul-Islam/DevOps-Test/tree/master/App1/src))
 2. Prepare a Dockerfile to dockerize the Project (Dockerfile is in the [build folder](https://github.com/Shadikul-Islam/DevOps-Test/blob/master/App1/build/Dockerfile))
