@@ -1,6 +1,6 @@
 ## <p align=left> Highly Available Microservices Architecture Deployment Solution <br> <br> </p> 
 
-| **SL** | **Topic** |
+| **SL** | **Topics** |
 | --- | --- |
 | 01 | [My Opinion](#01) |
 | 02 | [Cloud Native Architecture](#02) |
