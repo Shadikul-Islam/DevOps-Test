@@ -1,2 +1,2 @@
 # DevOps-Test
-Go inside the Task folder. In every folder you will be find the code and configuration files and in Readme.md file you will be see the details description.
+Go inside the Task folder. In every folder, I have added the code and configuration files. In Readme.md file I have added the details description.
